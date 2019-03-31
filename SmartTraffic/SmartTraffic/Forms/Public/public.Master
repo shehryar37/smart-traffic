@@ -1,0 +1,201 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="public.master.cs" Inherits="SmartTraffic._public" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta name="description" content="Smart Traffic Management System">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Title -->
+    <title>
+        <asp:ContentPlaceHolder runat="server" ID="cpTitle"></asp:ContentPlaceHolder>
+    </title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/icon.ico">
+
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- My Custom css style -->
+    <link rel="stylesheet" href="css/MyStyleSheet.css" />
+
+    <!-- head script for the reCAPTCHA -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+<body>
+
+
+    <form id="form1" runat="server">
+        <asp:ScriptManager runat="server"></asp:ScriptManager>
+        <asp:UpdatePanel runat="server">
+            <ContentTemplate>
+                <asp:Timer runat="server" Interval="15000" ID="timerLocation" OnTick="timerLocation_Tick">
+                </asp:Timer>
+            </ContentTemplate>
+        </asp:UpdatePanel>
+        <!-- Preloader -->
+        <div id="preloader">
+            <div class="preload-content">
+                <div id="dento-load"></div>
+            </div>
+    </div>
+
+    <header class="header-area">
+        <!-- Top Header Area -->
+        <div class="top-header-area">
+            <div class="container h-100">
+                <div class="row h-100 align-items-center">
+                    <!-- Top Content -->
+                    <div class="col-6 col-md-9 col-lg-8">
+                        <div class="top-header-content">
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="28 Jackson Street, Chicago, 7788569 USA"><i class="fa fa-map-marker"></i><span>28 Jackson Street, Chicago, 7788569 USA</span></a>
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="info.dento@gmail.com"><i class="fa fa-envelope"></i><span>info.smarttraffic@gmail.com</span></a>
+                        </div>
+                    </div>
+                    <!-- Top Header Social Info -->
+                    <div class="col-6 col-md-3 col-lg-4">
+                        <div class="top-header-social-info text-right">
+                            <a runat="server" id="aNotifications" style="cursor: pointer" href="Notifications.aspx"><i class="fa fa-bell"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Top Header End -->
+
+        <!-- Main Header Start -->
+        <div class="main-header-area">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Classy Menu -->
+                    <nav class="classy-navbar justify-content-between" id="dentoNav">
+
+                        <!-- Logo -->
+                        <a class="nav-brand" href="Index.aspx">
+                            <img src="./img/core-img/logo-black.png" width="270" alt=""></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul id="nav">
+                                    <li><a href="Index.aspx">Home</a></li>
+
+                                    <li><a href="About.aspx">About</a></li>
+                                    <li><a href="Complaints.aspx">Complaints</a></li>
+                                    <li><a href="Emergency.aspx">Emergency Help</a></li>
+                                    <li><a href="Feedback.aspx">Feedback</a></li>
+                                </ul>
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+
+                        <asp:MultiView runat="server" ID="mvLoginLogout">
+                            <asp:View runat="server">
+                                <!-- Login Button -->
+                                <a href="LoginRegister.aspx" class="btn dento-btn booking-btn">Login</a>
+                            </asp:View>
+                            <asp:View runat="server">
+                                <!-- Logout Button -->
+                                <asp:Button runat="server" Text="Logout" ID="btnLogout" OnClick="btnLogout_Click" CssClass="btn dento-btn booking-btn" />
+                            </asp:View>
+                        </asp:MultiView>
+                        
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+        <!-- ***** Header Area End ***** -->
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+    <footer class="footer-area bg-img bg-gradient-overlay" style="background-image: url(img/bg-img/3.jpg);">
+        <div class="container">
+            <div class="row">
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-footer-widget">
+                        <a href="Index.aspx" class="d-block mb-4">
+                            <img src="./img/core-img/logo-white.png" width="250" alt=""></a>
+                        <p>Etiam sutor risus, dapibus act elefend katen, lacinia sitamet denim. Mauris sagittis kansa interdum dignissim.</p>
+                        <div class="footer-contact">
+                            <p><i class="icon_pin"></i>28 Jackson Street, Chicago, 7788569 USA</p>
+                            <p><i class="icon_phone"></i>+84. 2252. 2250. 122</p>
+                            <p><i class="icon_mail"></i>info.smarttraffic@gmail.com</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Footer Widget -->
+
+
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-lg" style="padding-left: 200px;">
+                    <div class="single-footer-widget">
+                        <!-- Widget Title -->
+                        <h5 class="widget-title">Quick Link</h5>
+
+                        <!-- Quick Links Nav -->
+                        <nav>
+                            <ul class="quick-links" style="padding: 10px;">
+                                <li><a href="About.aspx">About</a></li>
+                                <li><a href="Complaints.aspx">Complaints</a></li>
+                                <li><a href="Emergency.aspx">Emergency help</a></li>
+                                <li class="feed"><a href="Feedback.aspx">Feedback</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+
+                <!-- Single Footer Widget -->
+
+            </div>
+        </div>
+
+        <!-- Copywrite Area -->
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="copywrite-content">
+                        <p>
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+                            All rights reserved
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- ******* All JS ******* -->
+    <!-- jQuery js -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- All js -->
+    <script src="js/dento.bundle.js"></script>
+    <!-- Active js -->
+    <script src="js/default-assets/active.js"></script>
+</body>
+</html>

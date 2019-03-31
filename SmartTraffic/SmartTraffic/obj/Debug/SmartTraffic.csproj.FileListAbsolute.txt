@@ -1,0 +1,280 @@
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\SmartTraffic.dll.config
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\SmartTraffic.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\SmartTraffic.pdb
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csc.exe
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csc.exe.config
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csc.rsp
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csi.exe
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csi.exe.config
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csi.rsp
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.AppContext.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Collections.Immutable.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Console.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Compression.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.FileSystem.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Pipes.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Reflection.Metadata.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.AccessControl.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Claims.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.ValueTuple.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XPath.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\vbc.exe
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\vbc.exe.config
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\vbc.rsp
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\VBCSCompiler.exe
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\VBCSCompiler.exe.config
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csprojAssemblyReference.cache
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csproj.CoreCompileInputs.cache
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csproj.CopyComplete
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.pdb
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\EntityFramework.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\EntityFramework.SqlServer.dll
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\EntityFramework.xml
+E:\Computer Science\ApTech\TechWiz\SmartTraffic\SmartTraffic\bin\EntityFramework.SqlServer.xml
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\SmartTraffic.dll.config
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\SmartTraffic.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\SmartTraffic.pdb
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csc.exe
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csc.exe.config
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csc.rsp
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csi.exe
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csi.exe.config
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\csi.rsp
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.AppContext.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Collections.Immutable.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Console.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Compression.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.FileSystem.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Pipes.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Reflection.Metadata.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.AccessControl.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Claims.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.ValueTuple.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XPath.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\vbc.exe
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\vbc.exe.config
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\vbc.rsp
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\VBCSCompiler.exe
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\roslyn\VBCSCompiler.exe.config
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\EntityFramework.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\EntityFramework.SqlServer.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\EntityFramework.xml
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\EntityFramework.SqlServer.xml
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csprojAssemblyReference.cache
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csproj.CoreCompileInputs.cache
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csproj.CopyComplete
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.pdb
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\Newtonsoft.Json.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\Newtonsoft.Json.pdb
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\Newtonsoft.Json.xml
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\Recaptcha.pdb
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportSource.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.Shared.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Computer Science\ApTech\TechWiz\TechWiz\SmartTraffic\SmartTraffic\bin\stdole.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\SmartTraffic.dll.config
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\SmartTraffic.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\SmartTraffic.pdb
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\csc.exe
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\csc.exe.config
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\csc.rsp
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\csi.exe
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\csi.exe.config
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\csi.rsp
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.AppContext.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Console.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Compression.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Claims.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.ValueTuple.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\vbc.exe
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\vbc.exe.config
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\vbc.rsp
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\VBCSCompiler.exe
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\EntityFramework.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\EntityFramework.SqlServer.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\Newtonsoft.Json.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\stdole.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\EntityFramework.xml
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\EntityFramework.SqlServer.xml
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\Newtonsoft.Json.pdb
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\Newtonsoft.Json.xml
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\Recaptcha.pdb
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csprojAssemblyReference.cache
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csproj.CoreCompileInputs.cache
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csproj.CopyComplete
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.dll
+C:\Users\asimt\Desktop\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.pdb
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\SmartTraffic.dll.config
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\SmartTraffic.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\SmartTraffic.pdb
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\csc.exe
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\csc.exe.config
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\csc.rsp
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\csi.exe
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\csi.exe.config
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\csi.rsp
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.AppContext.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Collections.Immutable.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Console.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Compression.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.FileSystem.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.IO.Pipes.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Reflection.Metadata.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.AccessControl.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Claims.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.ValueTuple.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XPath.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\vbc.exe
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\vbc.exe.config
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\vbc.rsp
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\VBCSCompiler.exe
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\roslyn\VBCSCompiler.exe.config
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\EntityFramework.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\EntityFramework.SqlServer.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\Newtonsoft.Json.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\stdole.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\EntityFramework.xml
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\EntityFramework.SqlServer.xml
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\Newtonsoft.Json.pdb
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\Newtonsoft.Json.xml
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\Recaptcha.pdb
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csprojAssemblyReference.cache
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csproj.CoreCompileInputs.cache
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.csproj.CopyComplete
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.dll
+E:\Computer Science\ApTech\TechWiz 2019\SmartTraffic\SmartTraffic\obj\Debug\SmartTraffic.pdb
